@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Module specificationVersion="1">
-  <ModulePrefs title="accenturetestapp"
-               description="Accenture Test App"
-               author="Mary Catherine Thomas"
+  <ModulePrefs title="Jive Data Visualization Graph"
+               description="Jive Data Visualization Graph"
+               author="Accenture"
                author_affiliation="Accenture">
 
     <!-- Commonly used features -->
