@@ -15,7 +15,7 @@
 
   </ModulePrefs>
 
-  <Content type="html" view="home,canvas" href="hello.html" preferred_height="400" />
+  <Content type="html" view="home,canvas" href="displaygraph.html" preferred_height="400" />
 
 
 </Module>
